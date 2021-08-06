@@ -9,7 +9,6 @@ Scenario created some files for you. What was created?
 
 `tree`{{execute}}
 
-
 So, how our git status looks?
 
 `git status`{{execute}}
@@ -34,3 +33,14 @@ This time we will use
 Let's check
 
 `git status`{{execute}}
+
+Please, notice the difference. Now, your file is listed as listed to be commited.
+Empty directory is ommited.
+
+Please be aware of one thing. `git add .` will add all files __from
+your current directory and subdirectories, not from repository's root__.
+If you are in subdirectory, only files from this path will be added.
+
+Now we are ready to commit.
+
+`git commit -m "my second commit"`{{execute}}
