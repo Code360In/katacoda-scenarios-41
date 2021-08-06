@@ -1,0 +1,38 @@
+{
+  "title": "Commiting first file",
+  "description": "How to initialize repository and commit first file (almost :) )",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - local init of the repository",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Check status of the repository",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Add files",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Commit files",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "git"
+  }
+}
