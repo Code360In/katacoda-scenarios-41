@@ -1,0 +1,34 @@
+{
+  "title": "Install git",
+  "description": "How to install Git on Linux environment",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Check the packages",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - install git package",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Is it installed?",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}

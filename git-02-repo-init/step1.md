@@ -26,3 +26,7 @@ Now it is time to initialize repository
 Now you should be able to execute `status` command
 
 `git status`{{execute}}
+
+And also the `.git` directory
+
+`ls -al`{{execute}}
