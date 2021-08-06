@@ -44,3 +44,9 @@ If you are in subdirectory, only files from this path will be added.
 Now we are ready to commit.
 
 `git commit -m "my second commit"`{{execute}}
+
+Let's check
+
+`git status`{{execute}}
+
+You succesfully commited multiple files!
