@@ -4,6 +4,9 @@ First, let's see if we have Git installed. We can do it on different ways
 
 `dpkg -l | grep git`{{execute}}
 
+The `ii` in the list means (if there are packages installed, you should see this mark)
+that the package is correctly installed and available.
+
 `apt list git -a`{{execute}}
 
 `apt-cache pkgnames git`{{execute}}
