@@ -21,3 +21,6 @@ create commit messages, though.
 `git status`{{execute}}
 
 Now our file is commited and its version is created.
+Status command shows empty list.
+
+Congratulations, you commited your first file!

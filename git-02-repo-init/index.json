@@ -23,7 +23,8 @@
       },
       {
         "title": "Step 5 - Add and commit multiple files in one shot",
-        "text": "step5.md"
+        "text": "step5.md",
+        "courseData": "step5-background.sh"
       }
     ],
     "intro": {
