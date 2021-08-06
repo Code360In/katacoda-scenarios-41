@@ -1,8 +1,8 @@
 {
   "title": "Install git",
-  "description": "How to install Git on Linux environment",
+  "description": "How to install Git on Linux (RHEL) environment",
   "difficulty": "Beginner",
-  "time": "5 miuntes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
