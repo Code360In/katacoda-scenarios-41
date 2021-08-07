@@ -37,7 +37,7 @@ Of course, we can revert more changes than the last commit.
 
 We can revert multiple commits by
 
-`git revert --edit HEAD~4`{{execute}}
+`git revert --edit HEAD~3`{{execute}}
 
 This time we reverted to the beginning of our history. And we forced git to
 give us possibility to add message (by the way, `--edit` is default

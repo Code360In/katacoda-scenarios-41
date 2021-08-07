@@ -1,4 +1,4 @@
-# A few worrds of explanation
+# A few words of explanation
 
 Imagine, that you did `git reset`. all works for you, correct?
 But this means, you move HEAD of your local repo somewhere.
