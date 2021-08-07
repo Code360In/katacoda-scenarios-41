@@ -1,0 +1,28 @@
+{
+  "title": "Revert changes",
+  "description": "Git reset works, but it is not best way of work. What to use instead?",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md",
+        "courseData": "step1-background.sh",
+        "code": "step1-foreground.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "git"
+  }
+}
