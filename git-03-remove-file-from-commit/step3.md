@@ -12,6 +12,8 @@ But before, let's see what is inside the file
 
 `cat testfile-04`{{execute}}
 
+`cat testfile-02`{{execute}}
+
 `git reset --soft HEAD~1`{{execute}}
 
 Now let's see what we have.
@@ -35,7 +37,7 @@ And let's look what happened
 
 `git status`{{execute}}
 
-`git log`{{execute}
+`git log`{{execute}}
 
 `cat testfile-04`{{execute}}
 
@@ -43,5 +45,4 @@ And let's look what happened
 
 What we did?
 
-We came back two more commits (~HEAD~2) and we said, this time we want to not only move back,
-but also we want to remove all changes which were done.
+We came back two more commits (~HEAD~2) and we said, this time we want to not only move back, but also we want to remove all changes which were done.
