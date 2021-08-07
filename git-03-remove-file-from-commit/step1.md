@@ -8,7 +8,7 @@ But before we need to navigate to repo's directory.
 
 `git status`{{execute}}
 
-Let's imagine the situation, you want to remove all staged files for some reason.
+Let's imagine the situation, you want to remove all staged files from index for some reason.
 Honestly speaking, if you need to do so, please, revise your approach to work :)
 
 Anyway, we have 4 files in stage. Let's remove `testfile-01`
