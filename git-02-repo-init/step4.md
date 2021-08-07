@@ -15,6 +15,9 @@ Yes, it is, so let's commit it!
 
 By adding `-m <comment>` we describe what this commit is about.
 
+We commited a specific file here, a `newfile`. By using `-a` instead, we are
+able to commit all files from repository. By using `.` we will commit changes from current path recursively.
+
 It is not the place here to explain the best practices how to
 create commit messages, though.
 
