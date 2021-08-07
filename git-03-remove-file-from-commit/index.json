@@ -12,7 +12,7 @@
         "code": "step1-foreground.sh"
       },
       {
-        "title": "Step 2 - remove files from commit",
+        "title": "Step 2 - restore previous state",
         "text": "step2.md",
         "courseData": "step2-background.sh",
         "code": "step2-foreground.sh"
