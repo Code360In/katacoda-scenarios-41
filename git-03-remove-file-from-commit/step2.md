@@ -14,7 +14,7 @@ Also, you can see some modifications were done in files after previous commit.
 
 We have all 4 files ready to be commited, but unfortunately, we don't want those changes.
 
-First, ;et's check what is in the file `testfile-01`
+First, let's check what is in the file `testfile-01`
 
 `cat testfile-01`{{execute}}
 
@@ -25,3 +25,10 @@ First, ;et's check what is in the file `testfile-01`
 `git status`{{execute}}
 
 We succesfully reset the file to the state from previous commit.
+
+In similar way like in some scenarios before, we can remove all changes in one short command.
+Let's do it.
+
+`git checkout .`{{execute}}
+
+All changes are reverted and our repository (or directory) in consistent with previous commit.
