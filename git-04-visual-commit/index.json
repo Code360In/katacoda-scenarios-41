@@ -3,6 +3,7 @@
   "description": "How to commit using editor?",
   "difficulty": "Beginner",
   "time": "5 minutes",
+  "private": "true",
   "details": {
     "steps": [
       {

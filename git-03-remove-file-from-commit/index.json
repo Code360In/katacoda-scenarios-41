@@ -1,8 +1,9 @@
 {
   "title": "Remove file from commit",
   "description": "How to remove staged or commited work?",
-  "difficulty": "Beginner",
-  "time": "5 minutes",
+  "difficulty": "Intermediate",
+  "time": "15 minutes",
+  "private": "true",
   "details": {
     "steps": [
       {

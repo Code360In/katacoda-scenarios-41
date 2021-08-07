@@ -3,6 +3,7 @@
   "description": "How to initialize repository and commit first files",
   "difficulty": "Beginner",
   "time": "10 minutes",
+  "private": "true",
   "details": {
     "steps": [
       {
