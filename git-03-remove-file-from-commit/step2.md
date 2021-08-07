@@ -31,4 +31,6 @@ Let's do it.
 
 `git checkout .`{{execute}}
 
-All changes are reverted and our repository (or directory) in consistent with previous commit.
+`git status`{{execute}}
+
+All changes are reverted and our directory in consistent with previous commit.
