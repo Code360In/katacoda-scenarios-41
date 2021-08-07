@@ -3,6 +3,7 @@
   "description": "How to check the difference between commit and our work",
   "difficulty": "Beginner",
   "time": "5 minutes",
+  "private": "true",
   "details": {
     "steps": [
       {

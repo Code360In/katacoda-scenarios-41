@@ -3,6 +3,7 @@
   "description": "Git reset works, but it is not best way of work. What to use instead?",
   "difficulty": "Beginner",
   "time": "5 minutes",
+  "private": "true",
   "details": {
     "steps": [
       {
