@@ -20,7 +20,7 @@ Now let's see what we have.
 
 `git status`{{execute}}
 
-`git log`{{execute}
+`git log`{{execute}}
 
 `cat testfile-04`{{execute}}
 
