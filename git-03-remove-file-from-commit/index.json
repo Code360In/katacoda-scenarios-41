@@ -8,9 +8,7 @@
       {
         "title": "Step 1 - remove file from stage",
         "text": "step1.md",
-        "courseData": "step1-background.sh",
-        "verify": "step1-verify.sh",
-        "hint": "step1-hint.sh"
+        "courseData": "step1-background.sh"
       }
     ],
     "intro": {
