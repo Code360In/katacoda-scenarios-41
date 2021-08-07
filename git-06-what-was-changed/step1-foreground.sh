@@ -3,4 +3,5 @@
 clear
 echo I am preparing the repo...
 sleep 10
+cd test
 echo Ready!
