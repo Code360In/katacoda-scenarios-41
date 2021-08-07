@@ -11,7 +11,7 @@ Let's be sure that our file is staged
 
 Yes, it is, so let's commit it!
 
-`git commit -m "my first commit"`{{execute}}
+`git commit newfile -m "my first commit"`{{execute}}
 
 By adding `-m <comment>` we describe what this commit is about.
 

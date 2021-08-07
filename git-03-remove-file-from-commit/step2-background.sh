@@ -2,7 +2,7 @@
 
 cd test
 git add .
-git commit -m "first commit"
+git commit -a -m "first commit"
 echo "change" >> testfile-01
 echo "change" >> testfile-02
 echo "change" >> testfile-03
