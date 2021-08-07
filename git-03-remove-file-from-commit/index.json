@@ -1,14 +1,16 @@
 {
   "title": "Remove file from commit",
-  "description": "You commited your file, it is staged. But you need to remove it, how to do it?",
+  "description": "How to remove staged or commited work?",
   "difficulty": "Beginner",
   "time": "5 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - remove file from stage",
         "text": "step1.md",
-        "courseData": "step1-background.sh"
+        "courseData": "step1-background.sh",
+        "verify": "step1-verify.sh",
+        "hint": "step1-hint.sh"
       }
     ],
     "intro": {
